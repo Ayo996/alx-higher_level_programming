@@ -1,0 +1,1 @@
+The project for more advanced concepts about OOP in Python
