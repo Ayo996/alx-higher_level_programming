@@ -1,0 +1,1 @@
+Python project that combines everything learned so far. It's the preparatory project for the upcoming AirBnb clone project.
