@@ -1,0 +1,1 @@
+This project helps you understand Object Relational Mapping with SQLAlchemy
